@@ -2,7 +2,7 @@
 
 ## Quick Start Guide: Development Environment 
 
-* Install Eclipse Mars.
+* Install J2EE version of Eclipse Mars/Neon.
 
 * Clone the **JIVE** repository.
 
